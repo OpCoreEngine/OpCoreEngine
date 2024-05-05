@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A software engineering student on his way to becoming a Backend Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript and Rust**
+- 🌱 I’m currently learning **Django and Rust**
 
 - 📫 How to reach me **omer.yvz@protonmail.com**
 
